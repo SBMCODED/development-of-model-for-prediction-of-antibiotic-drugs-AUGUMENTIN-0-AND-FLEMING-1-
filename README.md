@@ -1,1 +1,1 @@
-# development-of-model-for-prediction-of-antibiotic-drugs-AUGUMENTIN-0-AND-FLEMING-1-
+development-of-model-for-prediction-of-antibiotic-drugs-AUGUMENTIN-0-AND-FLEMING-1- the data is collected qualitatively. the datset consist of gender male and female (1), (0) genotype (AA,AS,SS) people that fill the data are ( self employed, students, and worker) machine learning algorithm used include: KNN (K-NEAREST-NEIGHBOR) RANDOM FOREST SVC( SUPPORT VECTOR MACHINE) LOGISITIC REGRESSION)
